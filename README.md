@@ -18,19 +18,7 @@ Aqui ficam disponibilizados os slides das aulas em formato PDF para acompanhamen
 ```text
 senac-programador-1082/
 ├── aulas/
-│   ├── 01_Introducao_Algoritmos.pdf       # Slides: Introdução a Algoritmos & Pensamento Computacional
-│   └── 02_Console_JS.pdf                  # Slides: Ambiente Console, Node.js & Variáveis
+│   ├── 01_Introducao_Algoritmos.pdf
+│   └── 02_Console_JS.pdf
 └── README.md
 ```
-
----
-
-## 📅 Roteiro de Aulas (UC1)
-
-* **01 — Introdução & Algoritmos:** Abertura do Curso, Matriz Curricular (UC1 a UC4), Pensamento Computacional e Algoritmos.
-* **02 — Console JS & Ambiente:** Ambiente de Desenvolvimento, Console JavaScript, Variáveis e Tipos Primitivos.
-* **03 — Estruturas Condicionais:** *(Em breve)* Tomada de decisão, Operador Ternário, `if`, `else if`, `else` e `switch...case`.
-
----
-
-*Faculdade de Tecnologia SENAC Ceará • Educação Profissional*
